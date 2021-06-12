@@ -1,0 +1,61 @@
+.bg1
+{
+    background-color:black;
+    color: #ffffff;
+    font-family: 'IBM Plex Serif', serif;
+    
+    
+    
+}
+.media>a
+{
+    padding: 10px;
+
+
+
+}
+.media
+{
+ padding: 50px;
+}
+.pic
+{
+    border:black 1px solid;
+    display: inline;
+    margin:20px;
+}
+.name
+{
+    padding: 200px;
+    
+}
+.col1
+{
+    background-color: rgb(247, 235, 212);
+}
+.col2
+{
+    background-color: rgb(235, 220, 220);
+}
+.p
+{
+    margin-top:2px;
+    margin-bottom:5px;
+}
+h3
+{
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.background
+{
+    background-color: rgb(237, 237, 250);
+    
+    
+}
+.p_b>p,li,td
+{
+    font-family: carbel light;
+    font-size: 20px;
+}
